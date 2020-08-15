@@ -1,7 +1,7 @@
 (function() {
   'use strict';
 
-  var pairs = 2;
+  var pairs = 14;
   var cards = [];
   var startTime;
   var isRunning = false;
